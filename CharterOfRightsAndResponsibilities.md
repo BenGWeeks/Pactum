@@ -30,7 +30,7 @@ Welcome to the Charter of Rights and Responsibilities for Pactum. This Charter o
 
 4. **Responsibility for Ethical Conduct**: Every citizen is responsible for conducting themselves in a manner that respects the shared values and ethical standards determined by their peers in the community, acts in the best interests of society, and complies with laws and regulations.
 
-5. **Responsible for Dependents**: Every citizen is responsible for their dependents' welfare and financial support. This includes ensuring adequate provision for basic needs such as food, clothing, healthcare, and education.
+5. **Responsibility for Dependents**: Every citizen is responsible for their dependents' welfare and financial support. This includes ensuring adequate provision for basic needs such as food, clothing, healthcare, and education.
 
 ## Government Responsibilities
 
