@@ -4,7 +4,7 @@ Welcome to the official GitHub repository for Pactum, where we maintain our foun
 
 ## Contents
 
-- [Charter of Rights and Responsibilities](./Charter.md): Our foundational document outlines citizens' essential rights and responsibilities of both the state and citizens. This charter is the bedrock of the future society.
+- [Charter of Rights and Responsibilities](./CharterOfRightsAndResponsibilities.md): Our foundational document outlines citizens' essential rights and responsibilities of both the state and citizens. This charter is the bedrock of the future society.
 
 - [Updates](./Updates.md): Keep track of all amendments and important updates to our governing documents.
 
