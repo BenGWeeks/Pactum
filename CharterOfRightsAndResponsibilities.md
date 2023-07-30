@@ -16,7 +16,7 @@ Welcome to the Charter of Rights and Responsibilities for Pactum. This Charter o
 
 5. **Right to Peaceful Assembly and Association**: Every citizen has the right to peaceful assembly, to form associations, and to petition the government.
 
-6. **Right to Free Trade**: Every citizen has the right to engage in free trade, including using the currency of their choice for transactions, subject to legal and regulatory considerations.
+6. **Right to Free Trade**: Every citizen has the right to engage in free trade, including using the currency of their choice for transactions.
 
 7. **Right to Trial by a Jury of Peers**: Every citizen has the right to a fair trial, which includes the right to be judged by a jury of their peers. 
 
