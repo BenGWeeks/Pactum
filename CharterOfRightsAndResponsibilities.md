@@ -22,13 +22,13 @@ Welcome to the Charter of Rights and Responsibilities for Pactum. This Charter o
 
 ## Responsibilities
 
-1. **Responsible for Respecting Rights**: Every citizen has a responsibility to respect the rights of others and not to infringe upon these rights.
+1. **Responsibility for Respecting Rights**: Every citizen has a responsibility to respect the rights of others and not to infringe upon these rights.
 
-2. **Responsible for Contributing to Society**: Every citizen is responsible for contributing to the development and welfare of society, either through active participation in community services, public works, and other forms of civic engagement or through making a monetary contribution in lieu of active service. The form and extent of these contributions should aim to ensure fairness and equality amongst all citizens.
+2. **Responsibility for Contributing to Society**: Every citizen is responsible for contributing to the development and welfare of society, either through active participation in community services, public works, and other forms of civic engagement or through making a monetary contribution in lieu of active service. The form and extent of these contributions should aim to ensure fairness and equality amongst all citizens.
 
-3. **Responsible for Insurance and Pension Contributions**: Every citizen is responsible for contributing to an accredited national insurance scheme to cover social services and pay into a pension fund.
+3. **Responsibility for Insurance and Pension Contributions**: Every citizen is responsible for contributing to an accredited national insurance scheme to cover social services and pay into a pension fund.
 
-4. **Responsible for Ethical Conduct**: Every citizen is responsible for conducting themselves in a manner that respects the shared values and ethical standards determined by their peers in the community, acts in the best interests of society, and complies with laws and regulations.
+4. **Responsibility for Ethical Conduct**: Every citizen is responsible for conducting themselves in a manner that respects the shared values and ethical standards determined by their peers in the community, acts in the best interests of society, and complies with laws and regulations.
 
 ## Government Responsibilities
 
