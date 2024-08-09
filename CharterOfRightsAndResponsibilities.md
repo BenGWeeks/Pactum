@@ -26,11 +26,19 @@ Welcome to Pactum's Charter of Rights and Responsibilities. This Charter outline
 
 2. **Responsibility for Contributing to Society**: Every citizen is responsible for contributing to the development and welfare of society, either through active participation in community services, public works, and other forms of civic engagement or through making a monetary contribution in lieu of service. The form and extent of these contributions should aim to ensure fairness and equality amongst all citizens.
 
-3. **Responsibility for Social Services Insurance and Pension Contributions**: Every citizen contributes to an accredited national insurance scheme to cover their own and their dependents' social services and pays into a pension fund.
+3. **Responsibility for Social Services Insurance and Pension Contributions**: Every citizen contributes to an accredited national insurance scheme to cover their and their dependents' social services and pays into a pension fund.
 
 4. **Responsibility for Ethical Conduct**: Every citizen is responsible for conducting themselves in a manner that respects the shared values and ethical standards determined by their peers in the community, acts in the best interests of society, and complies with laws and regulations.
 
 5. **Responsibility for Dependents**: Every citizen is responsible for their dependents' welfare and financial support. This includes ensuring adequate provision for basic needs such as food, clothing, healthcare, and education.
+
+6. **Responsibility for Environmental Stewardship**: Every citizen is responsible for protecting and preserving the environment. This includes minimizing waste, conserving resources, reducing pollution, and supporting sustainable practices in daily life. Citizens should also advocate for and participate in initiatives that promote environmental sustainability.
+
+7. **Responsibility for Civic Participation**: Every citizen is responsible for actively participating in the democratic process. This includes voting in elections, staying informed about public issues, and engaging in constructive dialogue to contribute to the governance of society.
+
+8. **Responsibility for Education and Self-Improvement**: Every citizen is responsible for continuously improving their knowledge and skills. This includes seeking education, staying informed, and contributing to society's intellectual and cultural development.
+
+9. **Responsibility for Health and Well-being**: Every citizen is responsible for maintaining their health and well-being to the best of their ability. This includes making healthy lifestyle choices and seeking appropriate healthcare.
 
 ## Responsibilities of the Government
 
