@@ -36,11 +36,15 @@ Welcome to Pactum's Charter of Rights and Responsibilities. This Charter outline
 
 The government has a responsibility to provide essential services, which include:
 
+1. **Responsibility for the Separation of Money and State**: The state is responsible for ensuring a complete separation between itself and the monetary system. The government must not dictate what constitutes legal tender, nor should it establish or allow the creation of a central bank. Monetary creation and regulation should be independent of the government to prevent political manipulation, protect economic integrity, price discovery & privacy, and uphold the financial freedom of citizens.
+
 1. **Responsibility for Defence**: The state must maintain forces and measures sufficient to protect its citizens and territories from direct external threats. These forces should be strictly limited to responding to clear, imminent, and direct threats to the nation's sovereignty, territorial integrity, or the safety of its citizens. This includes ensuring a net zero migration policy to safeguard national security and effectively manage the country's limited infrastructure, space, culture, and resources.
 
 2. **Responsibility for Maintaining Justice**: The state must establish and maintain a fair legal system that ensures justice is administered impartially, by a jury of peers, and equitably for all citizens, regardless of their status or background.
 
-3. **Responsibility for Environmental Protection**: The state protects the environment for future generations.
+3. **Responsibility for Environmental Protection**: The state is responsible for preserving and enhancing the environment to ensure its sustainability for future generations. This includes implementing policies that reduce pollution and protect natural ecosystems. The government must promote sustainable agricultural practices and conservation efforts. Furthermore, the state should actively restore degraded environments and ensure that economic activities do not compromise ecological balance, safeguarding the health and well-being of current and future citizens.
+
+4. **Responsibility for National Self-Sufficiency in Energy and Food**: The state must ensure that the nation is self-sufficient in energy and food production. This includes setting policies that allow local businesses to invest in energy, developing sustainable agriculture, and implementing policies that support domestic production. By achieving self-sufficiency, the country safeguards its national security and independence by reducing reliance on external sources and enhancing resilience against global disruptions.
 
 4. **Responsibility for Regulatory Governance**: The state regulates various sectors to ensure fair practices, prevent the concentration of power (including the government itself), protect consumers, and ensure that the rights and responsibilities outlined herein are respected and fulfilled.
 
